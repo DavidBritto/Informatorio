@@ -1,6 +1,7 @@
 from tkinter import font
 import tkinter as tk
 
+#LA V2 DEL EJERCICIO ESTA ABAJO 
 # Definición de funciones para las operaciones
 
 # def calcular_suma():
