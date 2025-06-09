@@ -1,5 +1,5 @@
-# 🚀 ¡Bitácora de Desafíos: Informatorio Chaco - Etapa 2 (Desarrollo Web)! 💻🐍📊
-
+# 🚀 ¡Bitácora de Ejercicios: Informatorio Chaco - Etapa 2 (Desarrollo Web)! 💻🐍📊
+Antes que nada, si este repositorio te sirvió de algun modo, dejame una estrella: ⭐↗️
 ¡Hola! 👋 Bienvenido/a a mi repositorio de prácticas para la **Etapa 2: Desarrollo Web con Python, Django y SQL** del Informatorio Chaco.
 
 Este espacio es mi "laboratorio digital" personal donde estaré aplicando, experimentando y documentando cada uno de los conceptos y ejercicios que veamos en el curso. ¡Considera esto un diario de mi viaje para dominar el backend y el desarrollo de aplicaciones web robustas!
